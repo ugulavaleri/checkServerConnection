@@ -1,6 +1,4 @@
 const Features = (roomId, serverUrl) => {
-    // console.log(roomId);
-    // console.log(serverUrl);
     return {
         connect() {
             console.log(
